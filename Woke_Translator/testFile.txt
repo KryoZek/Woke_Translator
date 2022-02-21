@@ -1,0 +1,16 @@
+         Este es un ejemplo para demostrar la estupidez academica. ~                                                
+         This is an example to demostrace the academic stupidity. ~   
+      
+         El translador esta disenado para que reciba un file.txt
+         como input, y crea un fileWoke.txt como output.
+         Utilizando funciones in-place para ahorrar espacio y tiempo,
+         detectara caracteres que terminan con 'a' & 'o'         
+         reemplazandolo con 'x'. ~
+
+ 
+
+        The translator is designed for receiving an input file.txt
+        and creating an output fileWoke.txt.
+        Using in-place functions to save time and memory.   
+        It'll detect characters in words ending with 'a' & 'o'
+        replacing it with 'x'. ~
